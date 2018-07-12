@@ -27,5 +27,3 @@ class Book
 end
 
 book1 = Book.new("hello")
-book1.author("kristina")
-puts
