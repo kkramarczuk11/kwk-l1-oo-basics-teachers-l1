@@ -37,7 +37,7 @@ class Book
     @turn_count
   end
   
-  def page_count=(page_count)
+  def turn_page=(turn_page)
     @page_count = page_count
   end
 end
